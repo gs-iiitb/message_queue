@@ -1,0 +1,4 @@
+client Id:28 Answer: "7 * 8 = 56"
+client Id:28 Answer: "6 - 9 = -3"
+client Id:68 Answer: "8 + 9 = 17"
+client Id:68 Answer: "88 * 67 = 5896"
